@@ -23,6 +23,7 @@
 		5D56CEF51EDED3400019882F /* D.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D56CEF41EDED3400019882F /* D.swift */; };
 		5D56CEF71EDED37B0019882F /* D.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D56CEF61EDED37B0019882F /* D.swift */; };
 		5D56CEF91EDED5D80019882F /* TestingFile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D56CEF81EDED5D80019882F /* TestingFile.swift */; };
+		5D56CEF31EDED2AF0019882F /* C.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D56CEF21EDED2AF0019882F /* C.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -64,6 +65,7 @@
 		5D56CEF41EDED3400019882F /* D.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = D.swift; sourceTree = "<group>"; };
 		5D56CEF61EDED37B0019882F /* D.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = D.swift; sourceTree = "<group>"; };
 		5D56CEF81EDED5D80019882F /* TestingFile.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TestingFile.swift; sourceTree = "<group>"; };
+		5D56CEF21EDED2AF0019882F /* C.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = C.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -292,6 +294,7 @@
 				5D56CEE91EDECB300019882F /* NewCloneFile.swift in Sources */,
 				5D56CEF71EDED37B0019882F /* D.swift in Sources */,
 				5D56CEF51EDED3400019882F /* D.swift in Sources */,
+				5D56CEF31EDED2AF0019882F /* C.swift in Sources */,
 				5D024EFE1EDE63C500E34CF7 /* ViewController.swift in Sources */,
 				5D56CEEF1EDECF1D0019882F /* B.swift in Sources */,
 				5D024F041EDE63C500E34CF7 /* SourceTreeProject.xcdatamodeld in Sources */,
