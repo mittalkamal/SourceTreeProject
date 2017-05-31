@@ -17,6 +17,7 @@
 		5D024F1F1EDE63C500E34CF7 /* SourceTreeProjectUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D024F1E1EDE63C500E34CF7 /* SourceTreeProjectUITests.swift */; };
 		5D024F2F1EDEA5BC00E34CF7 /* (null) in Sources */ = {isa = PBXBuildFile; };
 		5D56CEE51EDEC9CF0019882F /* SourceTreeFile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D56CEE41EDEC9CF0019882F /* SourceTreeFile.swift */; };
+		5D56CEE91EDECB300019882F /* NewCloneFile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D56CEE81EDECB300019882F /* NewCloneFile.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -52,6 +53,7 @@
 		5D024F1E1EDE63C500E34CF7 /* SourceTreeProjectUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SourceTreeProjectUITests.swift; sourceTree = "<group>"; };
 		5D024F201EDE63C500E34CF7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5D56CEE41EDEC9CF0019882F /* SourceTreeFile.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SourceTreeFile.swift; sourceTree = "<group>"; };
+		5D56CEE81EDECB300019882F /* NewCloneFile.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NewCloneFile.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -110,6 +112,7 @@
 				5D024F0A1EDE63C500E34CF7 /* Info.plist */,
 				5D024F021EDE63C500E34CF7 /* SourceTreeProject.xcdatamodeld */,
 				5D56CEE41EDEC9CF0019882F /* SourceTreeFile.swift */,
+				5D56CEE81EDECB300019882F /* NewCloneFile.swift */,
 			);
 			path = SourceTreeProject;
 			sourceTree = "<group>";
@@ -271,6 +274,7 @@
 			files = (
 				5D56CEE51EDEC9CF0019882F /* SourceTreeFile.swift in Sources */,
 				5D024F2F1EDEA5BC00E34CF7 /* (null) in Sources */,
+				5D56CEE91EDECB300019882F /* NewCloneFile.swift in Sources */,
 				5D024EFE1EDE63C500E34CF7 /* ViewController.swift in Sources */,
 				5D024F041EDE63C500E34CF7 /* SourceTreeProject.xcdatamodeld in Sources */,
 				5D024EFC1EDE63C500E34CF7 /* AppDelegate.swift in Sources */,
